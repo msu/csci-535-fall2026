@@ -139,6 +139,8 @@ the resources posted from the schedule, and your prerequisite knowledge.
 Often, it is helpful to find a
 homework buddy so that you can work on problems together.
 
+All homeworks reports are mandatory, and must be handed in by the due date.
+
 ### Project
 
 See [Project]({{ site.baseurl }}/project/) for more details.
