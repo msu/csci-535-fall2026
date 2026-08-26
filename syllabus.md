@@ -119,6 +119,10 @@ taken, or before.
 We will have three exams in this course. Each exam will be 15% of the
 grade.  See the schedule for the dates of the exams.
 
+The prerequisite exam, given on Day 2, does not count towards the Exam grade,
+but passing it is a requirement for passing this class. If a student fails this
+exam, they will be given an opportunity for an oral re-examination.
+
 ### Homework
 
 Each class period includes suggested reading and sometimes additional problems. The
