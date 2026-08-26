@@ -1,0 +1,11 @@
+.project {
+  @extend %card;
+
+  h1, h2 {
+    @extend .text-gamma;
+  }
+
+  .project-meta {
+    @extend .text-epsilon;
+  }
+}
