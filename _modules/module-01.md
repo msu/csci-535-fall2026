@@ -20,4 +20,5 @@ title: Getting Acquainted
 
 10 Sept
 : Topological Sort [[H0-2]({{ site.baseurl }}/assets/pdfs/HO-02_topo-sort.pdf)] [[notes]({{ site.baseurl }}/assets/pdfs/09-10_board.pdf)]
-: **Quiz**{: .label .label-darkorchid}Prerequisite-Assessment (20 minutes)
+  : [Kahn 1962](https://dl.acm.org/doi/abs/10.1145/368996.369025)
+: **Quiz**{: .label .label-darkorchid}Prerequisite-Assessment (15 minutes)
