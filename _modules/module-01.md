@@ -4,6 +4,7 @@ title: Getting Acquainted
 
 27 Aug
 : Course Introduction [[notes]({{ site.baseurl }}/assets/pdfs/08-27_board.pdf)] 
+  : [Euler, 1736, pg 186](https://archive.org/details/commentariiacade08impe/page/n185/mode/2up)
 
 1 Sept
 : Sorting, Relations, and Topological Spaces [[notes]({{ site.baseurl }}/assets/pdfs/09-01_board.pdf)] 
