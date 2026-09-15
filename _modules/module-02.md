@@ -9,6 +9,7 @@ title: Computational Geometric Topology
 17 Sept
 : Knots, Links, and Invariants [[board]({{ site.baseurl }}/assets/pdfs/09-17_board.pdf)] 
   : EH, Sections I.2-3; DW 8.1-2
+: **HW 1 due**{: .label .label-red }
 
 22 Sept
 : Surfaces and Orientability [[board]({{ site.baseurl }}/assets/pdfs/09-22_board.pdf)] 
@@ -24,6 +25,7 @@ title: Computational Geometric Topology
 
 1 Oct
 : **Exam 1**{: .label .label-purple }
+: **HW 2 due**{: .label .label-red }
 
 6 Oct
 : From Data to Complexes [[board]({{ site.baseurl }}/assets/pdfs/10-06_board.pdf)] 
