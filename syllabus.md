@@ -141,6 +141,9 @@ homework buddy so that you can work on problems together.
 
 All homeworks reports are mandatory, and must be handed in by the due date.
 
+UPDATE: You are expected to work through homework problems listed at the end of
+the assigned readings.
+
 ### Project
 
 See [Project]({{ site.baseurl }}/project/) for more details.
