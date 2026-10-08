@@ -28,10 +28,17 @@ title: Computational Geometric Topology
 : **HW 2 due**{: .label .label-red }
 
 6 Oct
-: From Data to Complexes [[board]({{ site.baseurl }}/assets/pdfs/10-06_board.pdf)] 
-  : EH, Sections III.1-2; DW Sections 2.1-2
+: Problem Session
 
 8 Oct
-: More on Simplicial Complexes [[board]({{ site.baseurl }}/assets/pdfs/10-08_board.pdf)] 
+: DCEL [[board]({{ site.baseurl }}/assets/pdfs/10-08_board.pdf)] 
+  : [David Mount's Lecture Notes](https://www.cs.umd.edu/class/spring2020/cmsc754/Lects/lect10-dcel.pdf) 
+
+13 Oct
+: From Data to Complexes [[board]({{ site.baseurl }}/assets/pdfs/10-13_board.pdf)] 
+  : EH, Sections III.1-2; DW Sections 2.1-2
+
+15 Oct
+: More on Simplicial Complexes [[board]({{ site.baseurl }}/assets/pdfs/10-15_board.pdf)] 
   : EH, Sections III.3-4; DW, Section 2.3
 : **Quiz**{: .label .label-darkorchid} (15 minutes)
