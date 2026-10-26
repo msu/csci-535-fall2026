@@ -27,7 +27,7 @@ interpreted). This can take the form of investigating an application of
 topological (or geometric) techniques to understanding your data set of choice,
 or studying a computational problem in topology/geometry.
 
-You will work in a groups of three and choose one of the two options:
+You will work in a groups of two or three and choose one of the two options:
 
 * Option 1 (Theory Track): Select a topic or paper in computational topology not
   covered in class (from a peer-reviewed publication or a textbook) and
