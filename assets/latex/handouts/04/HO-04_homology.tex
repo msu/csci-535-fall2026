@@ -1,0 +1,128 @@
+\documentclass{article}
+
+\usepackage{../handouts}
+
+\title{CSCI 535 Handout 04: Homology}
+\date{15 September 2026}
+\author{Name: \rule{3in}{0.15mm}}
+
+\begin{document}
+\maketitle
+
+\section*{Recall ...}
+
+\begin{enumerate}
+    \item If $(G,\heartsuit)$ is a group, what are the four properties that it satisfies?
+
+        \textbf{Answer}
+        \vspace{2in}
+
+    \item If $(F,+,\cdot)$ is a field, what properties does it satisfy?
+
+        \textbf{Answer}
+        \vspace{2in}
+
+    \pagebreak
+    \begin{figure}[t!hb]
+        \centering
+        \begin{subfigure}[b]{0.3\textwidth}
+            \includegraphics[width=\textwidth]{complex-1}
+            \caption{Complex $J$}
+            \label{fig:gull}
+        \end{subfigure}
+        ~ %
+        \begin{subfigure}[b]{0.3\textwidth}
+            \includegraphics[width=\textwidth]{complex-2}
+            \caption{Complex $K$}
+            \label{fig:tiger}
+        \end{subfigure}
+        ~ %
+        \begin{subfigure}[b]{0.3\textwidth}
+            \includegraphics[width=\textwidth]{complex-3}
+            \caption{Complex $L$}
+        \end{subfigure}
+        \caption{Three complexes.}
+    \end{figure}
+
+    \item (Each working group is assigned one of the complexes above). For your complex,
+        what are the chain groups, when thinking of the groups as sets?
+
+        \textbf{Answer}
+        \vspace{2in}
+
+    \item What is a generating set of these groups? (A set $S \subseteq G$ is a
+        \emph{generator set} if every element of $G$ can be constructed from
+        elements of $S$ and their inverses, using the group operation).
+
+        \textbf{Answer}
+        \vspace{2in}
+
+    \item Using $\Z \mod 3$ coefficients, what are the boundary operators?
+
+        \textbf{Answer}
+        \vspace{2in}
+
+\end{enumerate}
+
+\pagebreak
+\section*{Quotient Groups}
+
+If $(G,\diamondsuit)$ is a group and $N \subset of G$, we say that $N$ is a
+\emph{subgroup} of $G$ if $N$ is also a group.  We say that $N$ is a
+\emph{normal subgroup} if $N$ is invariant under conjugation by elements of $G$,
+that is, for every $g \in G$, $g \diamondsuit N \diamondsuit g^{-1}$ is an
+element of $N$.
+
+
+\begin{enumerate}
+    \item Every group has two normal subgroups.  What are they?
+
+        \textbf{Answer}
+        \vspace{2in}
+
+
+    \item Give an example of a subgroup that is not a normal subgroup.
+
+        \textbf{Answer}
+        \vspace{2in}
+
+
+    \pagebreak
+    \item Consider $3\Z := \{3z ~|~ z \in \Z\}$.  Is $3\Z \triangleleft \Z$? Why
+        or why not?
+
+        \textbf{Answer}
+        \vspace{3in}
+
+
+    \item A \emph{coset} is Given a group $(G,\cdot)$, a subgroup $H$, and an element $g \in
+        G$, the left coset is written as $gH:= \{g \cdot h ~|~ h \in H\}$. Given a
+        a normal subgroup $N$ of $G$, the \emph{quotient group} $G/H := \{gN ~|~
+        g \in G\}$. What is the quotient group $\Z / 3\Z$?
+
+        \textbf{Answer}
+        \vspace{2in}
+
+
+
+\end{enumerate}
+
+\pagebreak
+\section*{Homology}
+
+Given an $n \in \Z_+$, the homology group $H_n$ is defined as the quotient
+group: $H_n := \ker(\partial_n)/\im(\partial_n)$.
+
+\begin{enumerate}
+    \item Using $\Z_3$ coefficients, what are the homology groups of your
+        working group's simplicial complex?
+
+        \textbf{Answer}
+        \vspace{2in}
+
+
+\end{enumerate}
+
+
+
+\end{document}
